@@ -1,0 +1,7 @@
+This file contains the set of instructions on how to setup and run the source code.
+STEP 1: Open Google Chrome and search "Google Colaboratory". Click on the website. Alternatively, you can use jupyter notebook too.
+STEP 2: Upload the ".ipynb" file from the unzipped folder. After uploading, the code will appear on the screen.
+STEP 3: Now, upload the "Excel" file
+STEP 4: When the Excel File is succesfully uploaded, run the code (line by line).
+
+NOTE: Some of the code lines might take 15-20 minutes to run depending upon the processing power of the PC/Laptop but also because of the huge data being analysed and trained.
